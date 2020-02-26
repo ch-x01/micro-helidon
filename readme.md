@@ -1,3 +1,5 @@
+_This example shows the wonderful simplicity of the Helidon framework, which is actually more of a toolset than a framework in the classic sense._
+
 # MicroProfile generated Applications
 
 MicroProfile Starter has generated 2 MicroProfile applications for you.
